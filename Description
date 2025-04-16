@@ -1,0 +1,1 @@
+Kubernetes monitoring stack using Prometheus, Grafana & Helm on Minikube with a custom dashboard.
